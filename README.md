@@ -1,2 +1,4 @@
 # Verdant
-Ghania Qadir i Carolina Montalvo 
+## Membres
+- Ghania Qadir i Carolina Montalvo 
+
