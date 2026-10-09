@@ -9,6 +9,10 @@
 
 ## TABLA NECESIDADES
 
+| Necesidad detectada | Tipos | Personas o colectivos afectados | Actividad económica | Evidéncia |
+|---------------------|-------|---------------------------------|---------------------|-----------|
+|            | Multi | Gratis                          |
+| Typora | Multi | 14,99 $ |
 ## REFLEXIÓN FINAL
 Després de completar la taula, responeu conjuntament les preguntes següents:
 1. Quines necessitats considereu més urgents? Per què?
