@@ -11,7 +11,7 @@
 
 | Necesidad detectada | Tipos | Personas o colectivos afectados | Actividad económica | Evidéncia |
 |---------------------|-------|---------------------------------|---------------------|-----------|
-|            | Multi | Gratis                          |
+| Contaminación del aire causada por el tráfico de vehículos en las zonas con mucha circulación de Barcelona           | Ambiental y Social | Vecinos, personas mayores, peatones                          |
 | Typora | Multi | 14,99 $ |
 ## REFLEXIÓN FINAL
 Després de completar la taula, responeu conjuntament les preguntes següents:
