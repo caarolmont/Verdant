@@ -14,6 +14,7 @@
 |---------------------|-------|---------------------------------|---------------------|-----------|
 | Contaminación del aire causada por el tráfico de vehículos en las zonas con mucha circulación de Barcelona| Ambiental y Social | Vecinos, personas mayores, peatones| Transporte y automoción | Informe sobre el aire de Barcelona https://www.idescat.cat/pub/?geo=prov:08&id=resmc&lang=ca&utm_source=chatgpt.com |
 |  Generación de grandes cantidades de residuos domésticos  | Ambiental y economica | Ciudadanos, personal de limpieza | Comercio, gestión de residuos y reciclaje | Estadisticas de residuos municipales de Cat https://www.idescat.cat/pub/?geo=prov:08&id=resmc&lang=ca&utm_source=chatgpt.com |
+| Consumo elevado de agua durante periodos de sequía | Ambiental y Económico | Ciudadanos, servicios municipal, agricultores | Turismo, agricultura y gestión del agua | Informe municipal sobre el consumo de agua en Barcelona https://bcnroc.ajuntament.barcelona.cat/jspui/bitstream/11703/146438/1/Consum%20Aigua%202025_DEF.pdf?utm_source=chatgpt.com|  
 ## REFLEXIÓN FINAL
 Després de completar la taula, responeu conjuntament les preguntes següents:
 1. Quines necessitats considereu més urgents? Per què?
