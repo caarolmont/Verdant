@@ -38,9 +38,9 @@ Després de completar la taula, responeu conjuntament les preguntes següents:
 5. Quines dues necessitats podrien convertir-se en el repte principal del
 vostre projecte?
 
-Las dos necesidades que podrían convertirse en el reto principal son la tala excesiva de árboles y el consumo elevado de agua durante los periodos de sequía. Ambas tienen un impacto ambiental y económico destacable, ya que la tala amenaza los bosques, la fauna y la flora, mientras que el consumo excesivo de agua sin control por partes de la sociedad u organismos con uso excesivo de agua como las Compañías de IA i empresas como Nestlé pueden agravar la escasez y las condiciones de vida .
+   Las dos necesidades que podrían convertirse en el reto principal son la tala excesiva de árboles y el consumo elevado de agua durante los periodos de sequía. Ambas tienen un impacto ambiental y económico destacable, ya que la tala amenaza los bosques, la fauna y la flora, mientras que el consumo excesivo de agua sin control por partes de la sociedad u organismos con uso excesivo de agua como las Compañías de IA i empresas como Nestlé pueden agravar la escasez y las condiciones de vida .
 
-7. Quina informació us falta per poder escollir entre aquestes dues
+6. Quina informació us falta per poder escollir entre aquestes dues
 necessitats?
 ## FUENTES DE INFORMACIÓN
 
