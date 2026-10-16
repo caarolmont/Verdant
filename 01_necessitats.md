@@ -42,6 +42,17 @@ vostre projecte?**
 
 **6. Quina informació us falta per poder escollir entre aquestes dues
 necessitats?**
+
+   Para poder elegir entre las dos, necesito información comparable sobre cada una:
+
+   -  Cuántas personas afectan en Barcelona y en qué distritos, y cuánto consumen de agua los hogares, el turismo y el riego municipal.
+   -  Qué tan graves son: el impacto de las restricciones de agua y el impacto de perder arbolado y bosque (calor, biodiversidad, contaminación).
+   -  Cómo evolucionan: datos históricos del nivel de los embalses, de las sequías y del número de árboles talados y plantados.
+   -  Qué soluciones existen ya: medidas del Ajuntament y de la Generalitat (restricciones, desalinización, agua regenerada, planes de arbolado y gestión forestal), para saber dónde falta actuar.
+   -  Cuánto pesa cada una en la economía, quién paga el problema hoy y quién pagaría por una solución.
+   -  Cuánto depende cada una de Barcelona, sobre todo la tala, para asegurarme de que encaja con el entorno de ciudad.
+   -  Si es viable: si dispongo de tiempo, recursos y conocimientos, y si podré medir los resultados.
+   -  Qué opinan los afectados, mediante encuestas o entrevistas a ciudadanos, agricultores o profesionales.
 ## FUENTES DE INFORMACIÓN
 
 
