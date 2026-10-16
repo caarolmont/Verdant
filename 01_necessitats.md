@@ -18,6 +18,7 @@
 | Dificultad para acceder a una vivienda de alquiler por precios elevados en Barcelona | Social y Económico | Jovenes, familias con ingresos bajos, personas en situación de vulnerabilidad | sector inmobiliario, construcción | Estudio sobre derecho a la vivienda https://ctesc.gencat.cat/noticies/23261846.html?utm_source=chatgpt.com |
 | Dificultad de las personas mayores para realizar tramites digitales ya que no disponen conociemiento suficiente, ayuda o dispositivos | Social | Personas mayores y con pocos recursos economicos | Administración pública, tecnología | Informe social de Cataluña  | 
 | Dificultad para desplazarse de forma segura por las calles | Social y Ambiental | Personas con discapacidad, personas mayores, personas con movilidad reducida, familias con carritos | Transporte público, urbanismo, construcción y servicios municipales |  |
+| Tala excesiva de de árboles y explotación de los recursos forestales para obtener madera | Ambiental y Economica | Población general, fauna y flora de bosques, futuras generaciones | Industria de madera, fabricación de papel y muebles, explotación de recursos | Gestión forestal | 
 ## REFLEXIÓN FINAL
 Després de completar la taula, responeu conjuntament les preguntes següents:
 1. Quines necessitats considereu més urgents? Per què?
