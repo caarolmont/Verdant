@@ -3,6 +3,7 @@
 ## MIEMBROS
 - Carolina Montalvo
 - Ghania Qadir
+- Adam Ali Shah
 
 ## ENTORNO ANALIZADO
 - Ciudada
