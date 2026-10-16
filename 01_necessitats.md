@@ -20,28 +20,28 @@
 | Dificultad para desplazarse de forma segura por las calles | Social y Ambiental | Personas con discapacidad, personas mayores, personas con movilidad reducida, familias con carritos | Transporte público, urbanismo, construcción y servicios municipales | https://infonegocios.barcelona/plus/casi-8-de-cada-10-catalanes-senala-que-la-movilidad-en-su-ciudad-afecta-negativamente-a-su-calidad-de-vida |
 | Tala excesiva de de árboles y explotación de los recursos forestales para obtener madera | Ambiental y Economica | Población general, fauna y flora de bosques, futuras generaciones | Industria de madera, fabricación de papel y muebles, explotación de recursos | Gestión forestal https://cpf.gencat.cat/content/dam/cpf/or_organismes/or04_centre_propietat_forestal/01_transparencia/estadistiques/gestio-forestal/aprof_catalunya/2-GRAFIC-Aprof-FUSTA-Catalunya-1999-2021.pdf | 
 ## REFLEXIÓN FINAL
-Després de completar la taula, responeu conjuntament les preguntes següents:
-1. Quines necessitats considereu més urgents? Per què?
+
+**1. Quines necessitats considereu més urgents? Per què?**
    
    Consideramos que las necesidades mas urgentes son la contaminación del aire, la falta de vivienda y la escasez de agua   duarte determinadas épocas, porque afectan considerablemente la salud, al acceso a una vida digna y a la conservación de los recursos naturales.
 
-2. Quines afecten un nombre més gran de persones?
+**2. Quines afecten un nombre més gran de persones?**
 
    La contaminación del aire, la generación de residuos y el consumo de agua afectan prácticamente a toda la población de Barcelona. También el problema de la vivienda, que perjudica especialmente a jóvenes que intentan independizarse, familias con pocos ingresos y personas vulnerables.
 
-3. Quines tenen una relació més directa amb una activitat econòmica?
+**3. Quines tenen una relació més directa amb una activitat econòmica?**
 
    Todas están relacionadas con actividades económicas: la contaminación con el transporte, los residuos con el comercio y el reciclaje; el agua, con el turismo y la hostelería; la vivienda con el sector inmobiliario.
 
-4. Quines podrien empitjorar en el futur si no s’hi actua?
+**4. Quines podrien empitjorar en el futur si no s’hi actua?**
    
-5. Quines dues necessitats podrien convertir-se en el repte principal del
-vostre projecte?
+**5. Quines dues necessitats podrien convertir-se en el repte principal del
+vostre projecte?**
 
    Las dos necesidades que podrían convertirse en el reto principal son la tala excesiva de árboles y el consumo elevado de agua durante los periodos de sequía. Ambas tienen un impacto ambiental y económico destacable, ya que la tala amenaza los bosques, la fauna y la flora, mientras que el consumo excesivo de agua sin control por partes de la sociedad u organismos con uso excesivo de agua como las Compañías de IA i empresas como Nestlé pueden agravar la escasez y las condiciones de vida .
 
-6. Quina informació us falta per poder escollir entre aquestes dues
-necessitats?
+**6. Quina informació us falta per poder escollir entre aquestes dues
+necessitats?**
 ## FUENTES DE INFORMACIÓN
 
 
