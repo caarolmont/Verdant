@@ -13,7 +13,7 @@
 | Necesidad detectada | Tipos | Personas o colectivos afectados | Actividad económica | Evidéncia |
 |---------------------|-------|---------------------------------|---------------------|-----------|
 | Contaminación del aire causada por el tráfico de vehículos en las zonas con mucha circulación de Barcelona| Ambiental y Social | Vecinos, personas mayores, peatones| Transporte y automoción | Informe sobre el aire de Barcelona https://www.idescat.cat/pub/?geo=prov:08&id=resmc&lang=ca&utm_source=chatgpt.com |
-| Typora | Multi | 14,99 $ |
+|  Generación de grandes cantidades de residuos domésticos  | Ambiental y economica | Ciudadanos, personal de limpieza | Comercio, gestión de residuos y reciclaje | Estadisticas de residuos municipales de Cat https://www.idescat.cat/pub/?geo=prov:08&id=resmc&lang=ca&utm_source=chatgpt.com |
 ## REFLEXIÓN FINAL
 Després de completar la taula, responeu conjuntament les preguntes següents:
 1. Quines necessitats considereu més urgents? Per què?
