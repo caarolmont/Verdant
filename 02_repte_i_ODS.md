@@ -15,3 +15,8 @@
 | PUNTUACIÓN TOTAL | 20 | 21 |
 
 ## Definicion del reto
+Hemos elegido la tala de árboles como reto principal porque es un problema ambiental relacionado con la explotación de los recursos naturales. Los árboles proporcionan madera y materias primas para fabricar productos como papel, muebles y materiales de construcción. Sin embargo, cuando se talan de forma excesiva se pueden destruir hábitats, reducir la biodiversidad, degradar el suelo y contribuir al cambio climático.
+
+Consideramos que es importante porque los bosques son esenciales para mantener el equilibrio de los ecosistemas. Además, nuestro proyecto nos permitirá investigar cómo la tecnología puede ayudar a concienciar a la población, promover un consumo responsable y fomentar la protección de los recursos forestales.
+
+Aunque el gasto de agua en la ciudad también es un problema relevante, hemos decidido centrarnos en la tala de árboles porque queremos estudiar las consecuencias de la explotación forestal y las posibles alternativas para reducir su impacto ambiental.
