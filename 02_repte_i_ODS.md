@@ -37,17 +37,17 @@ Aunque el gasto de agua en la ciudad también es un problema relevante, hemos de
 Hemos seleccionado tres ODS
 
 1. **ODS 15 Vida de ecosistemas terrestres**
-    - JUSTIFICACIÓN:
-    - NUMERO I DESCRIPCIÓN DE UNA META CONCRETA: Meta Meta 15.2: promover la gestión sostenible de todos los tipos de bosques, detener la deforestación, recuperar los bosques degradados y aumentar la reforestación a escala mundial.
-    - EXPLICACIÓN DE CÓMO PUEDE CONTRIBUIR EN NUESTRO PROYECTO:
+    - **JUSTIFICACIÓN:**
+    - **NUMERO I DESCRIPCIÓN DE UNA META CONCRETA:** Meta Meta 15.2: promover la gestión sostenible de todos los tipos de bosques, detener la deforestación, recuperar los bosques degradados y aumentar la reforestación a escala mundial.
+    - **EXPLICACIÓN DE CÓMO PUEDE CONTRIBUIR EN NUESTRO PROYECTO:**
     
 2. **ODS 12 Producción y consumo responsable**
-    - JUSTIFICACIÓN:
-    - NUMERO I DESCRIPCIÓN DE UNA META CONCRETA: 12.2: lograr la gestión sostenible y el uso eficiente de los recursos naturales para 2030
-    - EXPLICACIÓN DE CÓMO PUEDE CONTRIBUIR EN NUESTRO PROYECTO:
+    - **JUSTIFICACIÓN:**
+    - **NUMERO I DESCRIPCIÓN DE UNA META CONCRETA:** 12.2: lograr la gestión sostenible y el uso eficiente de los recursos naturales para 2030
+    - **EXPLICACIÓN DE CÓMO PUEDE CONTRIBUIR EN NUESTRO PROYECTO:**
   
 3. **ODS 13 Acción por el clima**
-    - JUSTIFICACIÓN:
-    - NUMERO I DESCRIPCIÓN DE UNA META CONCRETA: Meta 13.3: mejorar la educación, la sensibilización y la capacidad humana e institucional en relación con la mitigación del cambio climático, la adaptación a este y la reducción de sus efectos.
-    - EXPLICACIÓN DE CÓMO PUEDE CONTRIBUIR EN NUESTRO PROYECTO:
+    - **JUSTIFICACIÓN:**
+    - **NUMERO I DESCRIPCIÓN DE UNA META CONCRETA:** Meta 13.3: mejorar la educación, la sensibilización y la capacidad humana e institucional en relación con la mitigación del cambio climático, la adaptación a este y la reducción de sus efectos.
+    - **EXPLICACIÓN DE CÓMO PUEDE CONTRIBUIR EN NUESTRO PROYECTO:**
     
