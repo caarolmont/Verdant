@@ -1,3 +1,9 @@
+## MIEMBROS Y TAREAS
+Entre los tres miembros hemos debatido sobre el reto y su elección posteriormente cada una parte en github
+- **Carolina Montalvo:** Tabla comparación y justificación, y frase definición del reto
+- **Ghania Qadir:** Explicación sobre la definicion del reto
+- **Adam Ali Shah:** Justificación ODS y la relación con nuestro proyecto
+
 # PARTE 1 DEFINICION DEL RETO DEL PROYECTO 
 
 ## Tabala comparación 
