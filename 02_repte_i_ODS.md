@@ -57,4 +57,5 @@ Hemos seleccionado tres ODS
     - **NUMERO I DESCRIPCIÓN DE UNA META CONCRETA:** Meta 13.3: mejorar la educación, la sensibilización y la capacidad humana e institucional en relación con la mitigación del cambio climático, la adaptación a este y la reducción de sus efectos.
     - **EXPLICACIÓN DE CÓMO PUEDE CONTRIBUIR EN NUESTRO PROYECTO:**
 
-#
+# FUENTES UTILIZADAS 
+- Naciones Unidas - ODS 12: Producción y consumos responsables 
