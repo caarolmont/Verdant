@@ -64,19 +64,20 @@ Aunque el gasto de agua en la ciudad también es un problema relevante, hemos de
 Hemos seleccionado tres ODS
 
 1. **ODS 15 Vida de ecosistemas terrestres**
-    - **JUSTIFICACIÓN:**
+    - **JUSTIFICACIÓN:La tala de árboles puede provocar la deforestación y la pérdida de biodiversidad si no se realiza de manera responsable. Por eso, es importante promover una explotación forestal sostenible que permita aprovechar la madera sin perjudicar los ecosistemas ni destruir los hábitats naturales.
     - **NUMERO I DESCRIPCIÓN DE UNA META CONCRETA:** Meta Meta 15.2: promover la gestión sostenible de todos los tipos de bosques, detener la deforestación, recuperar los bosques degradados y aumentar la reforestación a escala mundial.
-    - **EXPLICACIÓN DE CÓMO PUEDE CONTRIBUIR EN NUESTRO PROYECTO:**
+    - **EXPLICACIÓN DE CÓMO PUEDE CONTRIBUIR EN NUESTRO PROYECTO:Este ODS nos ayuda a entender cómo realizar una tala de árboles sostenible, protegiendo los bosques, la biodiversidad y los hábitats naturales. Nos sirve como referencia para proponer medidas que permitan aprovechar la madera sin destruir los ecosistemas.
+**
     
 2. **ODS 12 Producción y consumo responsable**
-    - **JUSTIFICACIÓN:**
+    - **JUSTIFICACIÓN:La madera es un recurso natural limitado si se extrae a un ritmo superior al de regeneración de los bosques. Por ello, es necesario fomentar su uso eficiente, reducir los residuos y evitar la explotación excesiva de los recursos forestales, garantizando una producción más sostenible.**
     - **NUMERO I DESCRIPCIÓN DE UNA META CONCRETA:** 12.2: lograr la gestión sostenible y el uso eficiente de los recursos naturales para 2030
-    - **EXPLICACIÓN DE CÓMO PUEDE CONTRIBUIR EN NUESTRO PROYECTO:**
+    - **EXPLICACIÓN DE CÓMO PUEDE CONTRIBUIR EN NUESTRO PROYECTO:Este ODS nos permite identificar formas de aprovechar la madera de manera eficiente, reducir los residuos y evitar la tala innecesaria de árboles. Gracias a este objetivo, podemos proponer métodos de producción que utilicen los recursos forestales con responsabilidad.**
   
 3. **ODS 13 Acción por el clima**
-    - **JUSTIFICACIÓN:**
+    - **JUSTIFICACIÓN:Los árboles absorben dióxido de carbono (CO₂) de la atmósfera y ayudan a combatir el cambio climático y la calidad del aire. Una tala excesiva puede reducir esta capacidad de absorción y liberar carbono almacenado, por lo que es fundamental gestionar los bosques de forma sostenible para reducir el impacto sobre el clima y la calidad de vida.
     - **NUMERO I DESCRIPCIÓN DE UNA META CONCRETA:** Meta 13.3: mejorar la educación, la sensibilización y la capacidad humana e institucional en relación con la mitigación del cambio climático, la adaptación a este y la reducción de sus efectos.
-    - **EXPLICACIÓN DE CÓMO PUEDE CONTRIBUIR EN NUESTRO PROYECTO:**
+    - **EXPLICACIÓN DE CÓMO PUEDE CONTRIBUIR EN NUESTRO PROYECTO:Este ODS puede contribuir en el objetivo mediante la aplicación de prácticas de tala sostenible que mantengan la capacidad de los bosques para absorber CO₂. Además, puede promover la reforestación, la conservación de los árboles y la sensibilización sobre la importancia de los bosques en la lucha contra el cambio climático.**
 
 # FUENTES UTILIZADAS 
 - FAO — Organización de las Naciones Unidas para la Alimentación y la Agricultura. 
