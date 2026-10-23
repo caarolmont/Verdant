@@ -64,9 +64,9 @@ Aunque el gasto de agua en la ciudad también es un problema relevante, hemos de
 Hemos seleccionado tres ODS
 
 1. **ODS 15 Vida de ecosistemas terrestres**
-    - **JUSTIFICACIÓN:La tala de árboles puede provocar la deforestación y la pérdida de biodiversidad si no se realiza de manera responsable. Por eso, es importante promover una explotación forestal sostenible que permita aprovechar la madera sin perjudicar los ecosistemas ni destruir los hábitats naturales.
+    - **JUSTIFICACIÓN:** La tala de árboles puede provocar la deforestación y la pérdida de biodiversidad si no se realiza de manera responsable. Por eso, es importante promover una explotación forestal sostenible que permita aprovechar la madera sin perjudicar los ecosistemas ni destruir los hábitats naturales.
     - **NUMERO I DESCRIPCIÓN DE UNA META CONCRETA:** Meta Meta 15.2: promover la gestión sostenible de todos los tipos de bosques, detener la deforestación, recuperar los bosques degradados y aumentar la reforestación a escala mundial.
-    - **EXPLICACIÓN DE CÓMO PUEDE CONTRIBUIR EN NUESTRO PROYECTO:Este ODS nos ayuda a entender cómo realizar una tala de árboles sostenible, protegiendo los bosques, la biodiversidad y los hábitats naturales. Nos sirve como referencia para proponer medidas que permitan aprovechar la madera sin destruir los ecosistemas.
+    - **EXPLICACIÓN DE CÓMO PUEDE CONTRIBUIR EN NUESTRO PROYECTO:** Este ODS nos ayuda a entender cómo realizar una tala de árboles sostenible, protegiendo los bosques, la biodiversidad y los hábitats naturales. Nos sirve como referencia para proponer medidas que permitan aprovechar la madera sin destruir los ecosistemas.
 **
     
 2. **ODS 12 Producción y consumo responsable**
