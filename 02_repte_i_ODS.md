@@ -18,7 +18,7 @@ Entre los tres miembros hemos debatido sobre el reto y su elección posteriormen
 | Relación con un sector productivo | 3 | 3 |
 | Posibilidad de una solución tecnológica | 3 | 3 |
 | Posibilidad de actuación local | 2 | 3 |
-| PUNTUACIÓN TOTAL | 20 | 21 |
+| PUNTUACIÓN TOTAL | 23 | 24 |
 
 ## Resultat
 Hemos elegido la tala de árboles como reto principal porque es un problema ambiental relacionado con la explotación de los recursos naturales. Los árboles proporcionan madera y materias primas para fabricar productos como papel, muebles y materiales de construcción. Sin embargo, cuando se talan de forma excesiva se pueden destruir hábitats, reducir la biodiversidad, degradar el suelo y contribuir al cambio climático.
@@ -32,12 +32,33 @@ Aunque el gasto de agua en la ciudad también es un problema relevante, hemos de
 ¿Cómo podríamos ayudar a **la población** a reducir **la tala insostenible de árboles y fomentar el uso responsable de recursos forestales** en el entorno **cercano**?
 
 ## Análisis 
-- En qué consiste el problema
-- Dónde se produce
-- Aquien afecta
-- Que evidencias demuestran que existe
-- Por qué és importante actuar
-- Con qué actividad económica o sector productivo está relacionado
+- **En qué consiste el problema:**
+
+   La tala insostenible es la extracción de árboles a un ritmo mayor del que el bosque puede regenerarse, o sin planificación (tala ilegal, tala rasa, cambio de uso del suelo). Al mismo tiempo, el consumo poco responsable de madera, papel y derivados en las ciudades alimenta esa demanda.
+- **Dónde se produce:**
+  
+   - A escala global: sobre todo en bosques tropicales (Amazonia, Sudeste Asiático, África central).
+   - En el entorno cercano: la presión se da por el consumo de productos forestales importados, por la pérdida de arbolado urbano y periurbano (obras, urbanización) y por una gestión forestal deficiente de los bosques próximos.
+- **Aquien afecta:**
+
+  - A la población local, que pierde calidad del aire, regulación del calor y espacios verdes.
+  - A comunidades que viven del bosque.
+  - A la fauna y flora, por la pérdida de hábitats.
+  - Al conjunto de la sociedad, por su efecto en el cambio climático.
+- **Que evidencias demuestran que existe:**
+
+  - La FAO calcula que se han perdido unos 420 millones de hectáreas de bosque desde 1990, y que la deforestación sigue en torno a 10 millones de hectáreas al año.
+  - Los informes del IPCC vinculan la deforestación con las emisiones de CO₂ y la pérdida de biodiversidad.
+  - Datos locales: inventarios forestales y de arbolado urbano de tu ayuntamiento o del CREAF, y los datos de Global Forest Watch.
+- **Por qué és importante actuar:**
+
+   - Los bosques absorben CO₂, regulan el agua y protegen el suelo frente a la erosión.
+   - Sostienen la biodiversidad y reducen el calor en las ciudades.
+   - Perderlos es difícil de revertir, porque un bosque tarda décadas en recuperarse.
+   - Cambiar hábitos de consumo y concienciar a la población tiene un efecto real y a corto plazo.
+- **Con qué actividad económica o sector productivo está relacionado:**
+
+     Principalmente con el sector forestal y maderero, y por extensión con la industria del papel y la celulosa, la construcción, el mobiliario y la agricultura y ganadería (que provocan deforestación para ganar suelo).
 
 # PARTE 2. RELACIÓN CON EL ODS
 Hemos seleccionado tres ODS
