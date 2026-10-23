@@ -6,12 +6,12 @@ Entre los tres miembros hemos debatido sobre el reto y su elección posteriormen
 
 # PARTE 1 DEFINICION DEL RETO DEL PROYECTO 
 
-## Tabala comparación 
+## Tabla comparación 
 
 | CRITERIO | TALA DE ARBOLES | CONSUMO ELEVADO DE AGUA |
 |---|---|---|
 | Importancia y urgencia | 3 | 3 |
-| Nñumero de personas afectadas | 3 | 3 |
+| Numero de personas afectadas | 3 | 3 |
 | Existencia de evidencias fiables | 3 | 3 | 
 | Relación con un sector productivo | 3 | 3|
 | Relación con sostenibilidad | 3 | 3 |
