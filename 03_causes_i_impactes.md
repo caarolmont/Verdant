@@ -10,24 +10,25 @@ Aquest problema és important perquè els boscos són essencials per mantenir l�
 
 La tala excessiva pot perjudicar el medi ambient i afectar la qualitat de vida de les persones.
 
-## Causes les arrels
+## 3. Causes (les arrels)
 
-| Causa | Tipus |
-|---|---|
-| Extracció d'arbres a un ritme superior al de regeneració del bosc (tala il·legal, canvi d'ús del sòl) | Directa |
-| Consum elevat de fusta, paper i derivats a les ciutats | Directa |
-| Pèrdua d'arbrat urbà per obres i urbanització | Directa |
-| Manca de consum responsable | Indirecta (reforça el consum elevat) |
-| Ppoc control de les explotacions | Indirecta (afavoreix la tala sense planificació) |
-## Conseqüències les branques
-
-| Conseqüència | Impacte | Tipus |
+| Causa | Tipus | Explicació |
 |---|---|---|
-| Destrucció d'hàbitats i pèrdua de biodiversitat | Ambiental | Directa |
-| Degradació i erosió del sòl | Ambiental | Directa |
-| Pitjor qualitat de l'aire, més calor a la ciutat i menys espais verds | Social | Directa |
-| Augment del CO₂ a l'atmosfera i contribució al canvi climàtic | Ambiental | Indirecta |
-| Risc d'esgotar el recurs a llarg termini | Econòmic | Indirecta |
+| Tala excessiva d'arbres per obtenir fusta i altres matèries primeres | Directa | Redueix la superfície forestal i degrada els boscos, perquè s'extreuen arbres a un ritme superior al de la seva regeneració. |
+| Gestió forestal inadequada o insuficient | Directa | La manca de planificació i de control afavoreix la sobreexplotació dels recursos forestals. |
+| Demanda elevada de paper, mobles i productes de fusta | Indirecta | Augmenta la necessitat d'obtenir recursos forestals i reforça la pressió sobre els boscos. |
+| Consum excessiu i malbaratament de paper i altres productes forestals | Indirecta | Genera una demanda innecessària de matèries primeres que es podria evitar. |
+| Manca de conscienciació sobre la importància dels boscos | Indirecta | Dificulta l'adopció d'hàbits de consum responsables i de pràctiques més sostenibles. |
+
+## 4. Conseqüències (les branques)
+
+| Conseqüència | Tipus d'impacte | Efecte |
+|---|---|---|
+| Destrucció d'hàbitats i pèrdua de biodiversitat | Ambiental directe | Les espècies perden els espais on viuen i s'alimenten, i algunes poden quedar en perill d'extinció. |
+| Erosió i degradació del sòl | Ambiental directe | Sense arbres, el sòl queda exposat a la pluja i al vent, i pot perdre fertilitat. |
+| Augment del CO₂ atmosfèric i contribució al canvi climàtic | Ambiental indirecte | La pèrdua de massa forestal redueix la capacitat d'absorbir CO₂ i pot alliberar el carboni emmagatzemat. |
+| Pèrdua de recursos naturals i afectació de les comunitats que depenen dels boscos | Social indirecte | Els recursos disponibles es redueixen i es perjudiquen les activitats i els modes de vida tradicionals. |
+| Pèrdues econòmiques en activitats forestals i turístiques | Econòmic indirecte | La degradació dels boscos perjudica les activitats que depenen de la seva conservació a llarg termini. |
 ## Persones i sector afectats
 **Persones afectades:**
 - La població local, que perd qualitat de l'aire, regulació de la calor i espais verds.
