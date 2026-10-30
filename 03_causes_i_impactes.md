@@ -1,7 +1,7 @@
-## Membres i tasques 
+## Miembros i tareas 
 - Carolina Montalvo: Probelma central (el tronco) Arbol de problemas
 - Ghania Qadir: 
-- Adam Ali Shah
+- Adam Ali Shah:
 
 ## Problema central: el tronco
 
