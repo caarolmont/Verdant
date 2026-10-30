@@ -31,18 +31,18 @@ La tala excessiva pot perjudicar el medi ambient i afectar la qualitat de vida d
 | Pérdidas económicas en actividades forestales y turísticas | Económico indirecto | La degradación de los bosques perjudica las actividades que dependen de su conservación a largo plazo. |
 ## Personas i sectores afectados
 **Personas**
-**Población general:** nos veremos afectados por la degradación de los bosques, ya que son esenciales para mantener la calidad del aire, regular el clima, proteger el suelo y conservar los recursos naturales. Su destrucción empeorará las condiciones ambientales y la calidad de vida.
+- **Población general:** nos veremos afectados por la degradación de los bosques, ya que son esenciales para mantener la calidad del aire, regular el clima, proteger el suelo y conservar los recursos naturales. Su destrucción empeorará las condiciones ambientales y la calidad de vida.
 
-**Comunidades rurales:** dependen de los bosques para obtener recursos naturales y desarrollar actividades económicas como la agricultura, la ganadería y la recolección de alimentos vegetales. La degradación forestal puede provocar el deterioro de este sector, afectando al resto de sectores.
+- **Comunidades rurales:** dependen de los bosques para obtener recursos naturales y desarrollar actividades económicas como la agricultura, la ganadería y la recolección de alimentos vegetales. La degradación forestal puede provocar el deterioro de este sector, afectando al resto de sectores.
 
-**Generaciones futuras:** pueden sufrir las consecuencias devastadoras de la explotación excesiva de los bosques actuales, como el empeoramiento de la calidad de vida y de la salud, ya que podrían disponer de menos recursos naturales, menos biodiversidad y ecosistemas más degradados.
+- **Generaciones futuras:** pueden sufrir las consecuencias devastadoras de la explotación excesiva de los bosques actuales, como el empeoramiento de la calidad de vida y de la salud, ya que podrían disponer de menos recursos naturales, menos biodiversidad y ecosistemas más degradados.
 
 **Sectores afectados**
-**Industria del papel y del mueble:** estas industrias necesitan madera y otros materiales procedentes de los bosques para elaborar sus productos. La explotación excesiva de estos recursos puede provocar su escasez, aumentar los costes de producción y, como consecuencia, hacer subir los precios de los productos, perjudicando a los consumidores.
+- **Industria del papel y del mueble:** estas industrias necesitan madera y otros materiales procedentes de los bosques para elaborar sus productos. La explotación excesiva de estos recursos puede provocar su escasez, aumentar los costes de producción y, como consecuencia, hacer subir los precios de los productos, perjudicando a los consumidores.
 
-**Sector turístico:** la destrucción de los bosques y el deterioro de los espacios naturales pueden disminuir el interés de los turistas por visitar determinadas zonas, afectando negativamente a los negocios y las actividades relacionadas con el turismo de naturaleza.
+- **Sector turístico:** la destrucción de los bosques y el deterioro de los espacios naturales pueden disminuir el interés de los turistas por visitar determinadas zonas, afectando negativamente a los negocios y las actividades relacionadas con el turismo de naturaleza.
 
-**Flora y fauna:** la tala excesiva de árboles provoca la destrucción de los espacios naturales donde viven muchas especies, lo que dificulta su supervivencia y puede provocar una disminución de la biodiversidad.
+- **Flora y fauna:** la tala excesiva de árboles provoca la destrucción de los espacios naturales donde viven muchas especies, lo que dificulta su supervivencia y puede provocar una disminución de la biodiversidad.
 
 ## Mesures inicials
 Són línies d'actuació per explorar, no accions dissenyades.
