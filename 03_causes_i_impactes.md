@@ -56,21 +56,3 @@ Són línies d'actuació per explorar, no accions dissenyades.
 <img width="836" height="628" alt="{4E4CB7A8-D457-4FB8-B326-4926FEAAA908}" src="https://github.com/user-attachments/assets/c45ed2a3-dd45-429d-b65a-f4867f730227" />
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1.	Noms dels membres participants i els seus rols per elaborar la tasca. 
-2.	Contingut desenvolupat en la part 2
-3.	Les fonts d’informació consultades
-
