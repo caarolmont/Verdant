@@ -10,7 +10,7 @@ Aquest problema és important perquè els boscos són essencials per mantenir l�
 
 La tala excessiva pot perjudicar el medi ambient i afectar la qualitat de vida de les persones.
 
-## Causes les branques
+## Causes les arrels
 ## Conseqüencies les branques 
 ## Persones i sector afectats
 ## Mesures inicials
