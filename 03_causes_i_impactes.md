@@ -14,11 +14,11 @@ La tala excessiva pot perjudicar el medi ambient i afectar la qualitat de vida d
 
 | Causa | Tipus |
 |---|---|
-| Extracció d'arbres a un ritme superior al de regeneració del bosc (tala rasa, tala il·legal, canvi d'ús del sòl) | Directa |
+| Extracció d'arbres a un ritme superior al de regeneració del bosc (tala il·legal, canvi d'ús del sòl) | Directa |
 | Consum elevat de fusta, paper i derivats a les ciutats | Directa |
-| Pèrdua d'arbrat urbà i periurbà per obres i urbanització | Directa |
-| Manca de conscienciació i d'hàbits de consum responsable | Indirecta (reforça el consum elevat) |
-| Gestió forestal deficient i poc control de les explotacions | Indirecta (afavoreix la tala sense planificació) |
+| Pèrdua d'arbrat urbà per obres i urbanització | Directa |
+| Manca de consum responsable | Indirecta (reforça el consum elevat) |
+| Ppoc control de les explotacions | Indirecta (afavoreix la tala sense planificació) |
 ## Conseqüències les branques
 
 | Conseqüència | Impacte | Tipus |
@@ -27,7 +27,7 @@ La tala excessiva pot perjudicar el medi ambient i afectar la qualitat de vida d
 | Degradació i erosió del sòl | Ambiental | Directa |
 | Pitjor qualitat de l'aire, més calor a la ciutat i menys espais verds | Social | Directa |
 | Augment del CO₂ a l'atmosfera i contribució al canvi climàtic | Ambiental | Indirecta |
-| Pèrdua d'ingressos de les comunitats que viuen del bosc i risc d'esgotar el recurs a llarg termini | Econòmic | Indirecta |
+| Risc d'esgotar el recurs a llarg termini | Econòmic | Indirecta |
 ## Persones i sector afectats
 **Persones afectades:**
 - La població local, que perd qualitat de l'aire, regulació de la calor i espais verds.
