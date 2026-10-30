@@ -3,12 +3,13 @@
 - Ghania Qadir
 - Adam Ali Shah
 
-## Problema central el tronc
-La tala insostenible d’arbres i el consum excessiu de productes forestals provoquen la degradació dels boscos i la pèrdua de biodiversitat.
+## Problema central: el tronco
 
-Aquest problema és important perquè els boscos són essencials per mantenir l’equilibri dels ecosistemes i proporcionar hàbitats a nombroses espècies. 
+La tala insostenible de árboles y el consumo excesivo de productos forestales provocan la degradación de los bosques y la pérdida de biodiversidad.
 
-La tala excessiva pot perjudicar el medi ambient i afectar la qualitat de vida de les persones.
+Este problema es importante porque los bosques son esenciales para mantener el equilibrio de los ecosistemas y proporcionar hábitats a numerosas especies.
+
+La tala excesiva puede perjudicar el medio ambiente y afectar a la calidad de vida de las personas.
 
 ## 3. Causas (las raíces)
 
