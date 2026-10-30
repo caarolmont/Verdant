@@ -52,7 +52,7 @@ Son líneas de actuación que se deben explorar, no acciones diseñadas.
 2. **Fomento del consumo responsable:**: promover la reducción del consumo innecesario de papel y madera, así como su reutilización y reciclaje. También proponer dar prioridad a la compra de productos elaborados con materiales reciclados o que cuenten con certificaciones forestales que garanticen una procedencia sostenible. De esta manera, se puede reducir la demanda de nuevas materias primas y evitar la explotación excesiva de los bosques (ODS 12, meta 12.2).
 3. **Mejora de la información y el control**: aumentar la supervisión de la gestión forestal para detectar posibles casos de tala excesiva para fines exentos al permitido y conocer mejor el estado de los bosques y del arbolado urbano. Para ello, se pueden aprovechar herramientas tecnológicas y plataformas digitales, como los datos abiertos de los ayuntamientos, el CREAF o Global Forest Watch, que permiten consultar información sobre la situación de las zonas forestales y facilitar su protección.
 4. **Proteccion y reforestacion**: impulsar la conservación de los árboles existentes y recuperar aquellas zonas forestales que hayan sufrido daños por la tala o la degradación ambiental. También es importante proteger el arbolado urbano, plantar nuevas especies adecuadas a cada entorno e incorporar la conservación de los árboles en la planificación de obras y proyectos urbanísticos. Así se puede favorecer la recuperación de los ecosistemas y proteger la biodiversidad (ODS 15, meta 15.2).
-## Arbol de probelmas 
+## Arbol de problemas 
 <img width="899" height="668" alt="{D3A7CDBC-FF67-4AA4-86EA-6D0BBB0C7CED}" src="https://github.com/user-attachments/assets/bddf43c8-1796-4894-92ea-30dd74e4a361" />
 
 
