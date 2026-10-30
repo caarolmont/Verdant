@@ -14,10 +14,10 @@ La tala excessiva pot perjudicar el medi ambient i afectar la qualitat de vida d
 
 | Causa | Tipus | Explicació |
 |---|---|---|
-| Tala excessiva d'arbres per obtenir fusta i altres matèries primeres | Directa | Redueix la superfície forestal i degrada els boscos, perquè s'extreuen arbres a un ritme superior al de la seva regeneració. |
-| Gestió forestal inadequada o insuficient | Directa | La manca de planificació i de control afavoreix la sobreexplotació dels recursos forestals. |
-| Demanda elevada de paper, mobles i productes de fusta | Indirecta | Augmenta la necessitat d'obtenir recursos forestals i reforça la pressió sobre els boscos. |
-| Consum excessiu i malbaratament de paper i altres productes forestals | Indirecta | Genera una demanda innecessària de matèries primeres que es podria evitar. |
+| Tala excessiva d'arbres per obtenir fusta | Directa | La tala excessiva redueix la superfície forestal i degrada els boscos, perquè s'extreuen arbres a un ritme superior al de la seva regeneració. |
+| Gestió forestal inadequada | Directa | La gestio inadequada afavoreix la sobreexplotació dels recursos forestals. |
+| Demanda elevada de paper, mobles i productes de fusta | Indirecta | Augmenta la necessitat d'obtenir recursos forestals. |
+| Consum excessiu, malbaratament de paper i altres productes forestals | Indirecta | Genera una demanda innecessària de matèries primeres que es podria evitar. |
 | Manca de conscienciació sobre la importància dels boscos | Indirecta | Dificulta l'adopció d'hàbits de consum responsables i de pràctiques més sostenibles. |
 
 ## 4. Conseqüències (les branques)
