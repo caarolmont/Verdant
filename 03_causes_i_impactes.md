@@ -30,7 +30,7 @@ La tala excesiva puede perjudicar el medio ambiente y afectar a la calidad de vi
 | Aumento del CO₂ atmosférico y contribución al cambio climático | Ambiental indirecto | La pérdida de masa forestal reduce la capacidad de absorber CO₂ y puede liberar el carbono almacenado. |
 | Pérdida de recursos naturales y afectación de las comunidades que dependen de los bosques | Social indirecto | Los recursos disponibles se reducen y se perjudican las actividades y los modos de vida tradicionales. |
 | Pérdidas económicas en actividades forestales y turísticas | Económico indirecto | La degradación de los bosques perjudica las actividades que dependen de su conservación a largo plazo. |
-## Personas Y sectores afectados
+## Personas y sectores afectados
 **Personas**
 - **Población general:** nos veremos afectados por la degradación de los bosques, ya que son esenciales para mantener la calidad del aire, regular el clima, proteger el suelo y conservar los recursos naturales. Su destrucción empeorará las condiciones ambientales y la calidad de vida.
 
