@@ -29,15 +29,20 @@ La tala excessiva pot perjudicar el medi ambient i afectar la qualitat de vida d
 | Aumento del CO₂ atmosférico y contribución al cambio climático | Ambiental indirecto | La pérdida de masa forestal reduce la capacidad de absorber CO₂ y puede liberar el carbono almacenado. |
 | Pérdida de recursos naturales y afectación de las comunidades que dependen de los bosques | Social indirecto | Los recursos disponibles se reducen y se perjudican las actividades y los modos de vida tradicionales. |
 | Pérdidas económicas en actividades forestales y turísticas | Económico indirecto | La degradación de los bosques perjudica las actividades que dependen de su conservación a largo plazo. |
-## Persones i sector afectats
-**Persones**
-**Població general**: ens veurem afectats per la degradació dels boscos, ja que són essencials per mantenir la qualitat de l'aire, regular el clima, protegir el sòl i conservar els recursos naturals. La seva destrucció empitjorara les condicions ambientals i la qualitat de vida.
-**Comunitats rurals**: depenen dels boscos per obtenir recursos naturals i desenvolupar activitats econòmiques com l'agricultura, la ramaderia, i la recol·lecció d’aliments vegetals. La degradació forestal pot provocar la degradacio d’aqeust sector, afectant a la resta de sectors.
-**Generacions futures**: poden patir les conseqüències devastadores a causa de l'explotació excessiva dels boscos actuals, com la qualitat de vida o l’empitjorament de la salut ja que podrien disposar de menys recursos naturals, menys biodiversitat i ecosistemes més degradats.
-**Sectors afectats**
-**Indústria del paper i del moble**: aquestes indústries necessiten fusta i altres materials procedents dels boscos per elaborar els seus productes. L'explotació excessiva d'aquests recursos pot provocar-ne l'escassetat, augmentar els costos de producció i, com a conseqüència, fer pujar els preus dels productes, perjudicant els consumidors. 
-**Sector turístic**: la destrucció dels boscos i el deteriorament dels espais naturals poden disminuir l'interès dels turistes per visitar determinades zones, afectant negativament els negocis i les activitats relacionades amb el turisme de natura.
-**Flora i fauna**: la tala excessiva dels arbres provoca la destrucció dels espais naturals on viuen moltes espècies, fet que dificulta la seva supervivència i pot provocar una disminució de la biodiversitat.
+## Personas i sectores afectados
+**Personas**
+**Población general:** nos veremos afectados por la degradación de los bosques, ya que son esenciales para mantener la calidad del aire, regular el clima, proteger el suelo y conservar los recursos naturales. Su destrucción empeorará las condiciones ambientales y la calidad de vida.
+
+**Comunidades rurales:** dependen de los bosques para obtener recursos naturales y desarrollar actividades económicas como la agricultura, la ganadería y la recolección de alimentos vegetales. La degradación forestal puede provocar el deterioro de este sector, afectando al resto de sectores.
+
+**Generaciones futuras:** pueden sufrir las consecuencias devastadoras de la explotación excesiva de los bosques actuales, como el empeoramiento de la calidad de vida y de la salud, ya que podrían disponer de menos recursos naturales, menos biodiversidad y ecosistemas más degradados.
+
+**Sectores afectados**
+**Industria del papel y del mueble:** estas industrias necesitan madera y otros materiales procedentes de los bosques para elaborar sus productos. La explotación excesiva de estos recursos puede provocar su escasez, aumentar los costes de producción y, como consecuencia, hacer subir los precios de los productos, perjudicando a los consumidores.
+
+**Sector turístico:** la destrucción de los bosques y el deterioro de los espacios naturales pueden disminuir el interés de los turistas por visitar determinadas zonas, afectando negativamente a los negocios y las actividades relacionadas con el turismo de naturaleza.
+
+**Flora y fauna:** la tala excesiva de árboles provoca la destrucción de los espacios naturales donde viven muchas especies, lo que dificulta su supervivencia y puede provocar una disminución de la biodiversidad.
 
 ## Mesures inicials
 Són línies d'actuació per explorar, no accions dissenyades.
