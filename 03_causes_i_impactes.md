@@ -48,10 +48,10 @@ La tala excesiva puede perjudicar el medio ambiente y afectar a la calidad de vi
 ## Mesures inicials
 Són línies d'actuació per explorar, no accions dissenyades.
 
-1. **Sensibilització i educació** sobre l'impacte del consum de fusta i paper, amb l'ajuda de la tecnologia (ODS 13, meta 13.3).
-2. **Foment del consum responsable:** reduir, reutilitzar i reciclar paper i fusta, i prioritzar productes amb certificació forestal sostenible (ODS 12, meta 12.2).
-3. **Millora de la informació i el control** sobre la gestió forestal i l'arbrat urbà, per exemple amb dades obertes de l'ajuntament, el CREAF o Global Forest Watch.
-4. **Protecció i reforestació** de l'arbrat urbà i periurbà, incorporant-lo a la planificació d'obres i urbanització (ODS 15, meta 15.2).
+1. **Sensibilización y educación** sobre el impacto del consumo de madera y papel, con la ayuda de la tecnología (ODS 13, meta 13.3).
+2. **Fomento del consumo respponsable:** reducir, reutilizar y reciclar papel y madera, y priorizar productos con certificación forestal sostenible (ODS 12, meta 12.2).
+3. **Mejora de la informacion y el control** sobre la gestión forestal y el arbolado urbano, por ejemplo, mediante datos abiertos del ayuntamiento, el CREAF o Global Forest Watch.
+4. **Proteccion y reforestacion** del arbolado urbano y periurbano, incorporándolo a la planificación de obras y urbanización (ODS 15, meta 15.2).
 ## Arbre de problemes 
 
 
