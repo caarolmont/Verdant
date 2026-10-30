@@ -30,19 +30,14 @@ La tala excessiva pot perjudicar el medi ambient i afectar la qualitat de vida d
 | Pèrdua de recursos naturals i afectació de les comunitats que depenen dels boscos | Social indirecte | Els recursos disponibles es redueixen i es perjudiquen les activitats i els modes de vida tradicionals. |
 | Pèrdues econòmiques en activitats forestals i turístiques | Econòmic indirecte | La degradació dels boscos perjudica les activitats que depenen de la seva conservació a llarg termini. |
 ## Persones i sector afectats
-**Persones afectades:**
-- La població local, que perd qualitat de l'aire, regulació de la calor i espais verds.
-- Les comunitats que viuen del bosc i dels seus recursos.
-- Els col·lectius més vulnerables (gent gran, infants, persones amb problemes respiratoris), que pateixen més la calor i la contaminació.
-- La fauna i la flora, per la pèrdua d'hàbitats.
-- El conjunt de la societat i les generacions futures, pels efectes sobre el clima.
-
-**Sectors afectats:**
-- Sector forestal i fuster.
-- Indústria del paper i la cel·lulosa.
-- Construcció i mobiliari.
-- Agricultura i ramaderia, que provoquen desforestació per guanyar sòl.
-- Administració pública, que gestiona el medi natural i l'arbrat urbà.
+**Persones**
+**Població general**: ens veurem afectats per la degradació dels boscos, ja que són essencials per mantenir la qualitat de l'aire, regular el clima, protegir el sòl i conservar els recursos naturals. La seva destrucció empitjorara les condicions ambientals i la qualitat de vida.
+**Comunitats rurals**: depenen dels boscos per obtenir recursos naturals i desenvolupar activitats econòmiques com l'agricultura, la ramaderia, i la recol·lecció d’aliments vegetals. La degradació forestal pot provocar la degradacio d’aqeust sector, afectant a la resta de sectors.
+**Generacions futures**: poden patir les conseqüències devastadores a causa de l'explotació excessiva dels boscos actuals, com la qualitat de vida o l’empitjorament de la salut ja que podrien disposar de menys recursos naturals, menys biodiversitat i ecosistemes més degradats.
+**Sectors afectats**
+**Indústria del paper i del moble**: aquestes indústries necessiten fusta i altres materials procedents dels boscos per elaborar els seus productes. L'explotació excessiva d'aquests recursos pot provocar-ne l'escassetat, augmentar els costos de producció i, com a conseqüència, fer pujar els preus dels productes, perjudicant els consumidors. 
+**Sector turístic**: la destrucció dels boscos i el deteriorament dels espais naturals poden disminuir l'interès dels turistes per visitar determinades zones, afectant negativament els negocis i les activitats relacionades amb el turisme de natura.
+**Flora i fauna**: la tala excessiva dels arbres provoca la destrucció dels espais naturals on viuen moltes espècies, fet que dificulta la seva supervivència i pot provocar una disminució de la biodiversitat.
 
 ## Mesures inicials
 Són línies d'actuació per explorar, no accions dissenyades.
