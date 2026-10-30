@@ -48,10 +48,10 @@ La tala excesiva puede perjudicar el medio ambiente y afectar a la calidad de vi
 ## Medidas iniciales
 Son líneas de actuación que se deben explorar, no acciones diseñadas.
 
-1. **Sensibilización y educación** sobre el impacto del consumo de madera y papel, con la ayuda de la tecnología (ODS 13, meta 13.3).
-2. **Fomento del consumo respponsable:** reducir, reutilizar y reciclar papel y madera, y priorizar productos con certificación forestal sostenible (ODS 12, meta 12.2).
-3. **Mejora de la informacion y el control** sobre la gestión forestal y el arbolado urbano, por ejemplo, mediante datos abiertos del ayuntamiento, el CREAF o Global Forest Watch.
-4. **Proteccion y reforestacion** del arbolado urbano y periurbano, incorporándolo a la planificación de obras y urbanización (ODS 15, meta 15.2).
+1. **Sensibilización y educación** informar y concienciar a la población sobre las consecuencias de la tala excesiva y el consumo de madera y papel. Se pueden utilizar campañas informativas, redes sociales y herramientas tecnológicas para difundir información y promover hábitos más respetuosos con el medio ambiente (ODS 13, meta 13.3).
+2. **Fomento del consumo respponsable:** promover la reducción del consumo innecesario de papel y madera, así como su reutilización y reciclaje. También se propone dar prioridad a la compra de productos elaborados con materiales reciclados o que cuenten con certificaciones forestales que garanticen una procedencia sostenible. De esta manera, se puede reducir la demanda de nuevas materias primas y evitar la explotación excesiva de los bosques (ODS 12, meta 12.2).
+3. **Mejora de la informacion y el control** aumentar la supervisión de la gestión forestal para detectar posibles casos de tala excesiva y conocer mejor el estado de los bosques y del arbolado urbano. Para ello, se pueden aprovechar herramientas tecnológicas y plataformas digitales, como los datos abiertos de los ayuntamientos, el CREAF o Global Forest Watch, que permiten consultar información sobre la situación de las zonas forestales y facilitar su protección.
+4. **Proteccion y reforestacion** impulsar la conservación de los árboles existentes y recuperar aquellas zonas forestales que hayan sufrido daños por la tala o la degradación ambiental. También es importante proteger el arbolado urbano y periurbano, plantar nuevas especies adecuadas a cada entorno e incorporar la conservación de los árboles en la planificación de obras y proyectos urbanísticos. Así se puede favorecer la recuperación de los ecosistemas y proteger la biodiversidad (ODS 15, meta 15.2).
 ## Arbol de probelmas 
 <img width="828" height="621" alt="{10B09CC5-206D-458D-B643-53BC24700617}" src="https://github.com/user-attachments/assets/3cb54b2f-cbdb-4a8f-a26a-ecf0419394d9" />
 
