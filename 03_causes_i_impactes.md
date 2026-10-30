@@ -53,6 +53,7 @@ Son líneas de actuación que se deben explorar, no acciones diseñadas.
 3. **Mejora de la informacion y el control** aumentar la supervisión de la gestión forestal para detectar posibles casos de tala excesiva y conocer mejor el estado de los bosques y del arbolado urbano. Para ello, se pueden aprovechar herramientas tecnológicas y plataformas digitales, como los datos abiertos de los ayuntamientos, el CREAF o Global Forest Watch, que permiten consultar información sobre la situación de las zonas forestales y facilitar su protección.
 4. **Proteccion y reforestacion** impulsar la conservación de los árboles existentes y recuperar aquellas zonas forestales que hayan sufrido daños por la tala o la degradación ambiental. También es importante proteger el arbolado urbano y periurbano, plantar nuevas especies adecuadas a cada entorno e incorporar la conservación de los árboles en la planificación de obras y proyectos urbanísticos. Así se puede favorecer la recuperación de los ecosistemas y proteger la biodiversidad (ODS 15, meta 15.2).
 ## Arbol de probelmas 
-<img width="828" height="621" alt="{10B09CC5-206D-458D-B643-53BC24700617}" src="https://github.com/user-attachments/assets/3cb54b2f-cbdb-4a8f-a26a-ecf0419394d9" />
+<img width="899" height="668" alt="{D3A7CDBC-FF67-4AA4-86EA-6D0BBB0C7CED}" src="https://github.com/user-attachments/assets/bddf43c8-1796-4894-92ea-30dd74e4a361" />
+
 
 
