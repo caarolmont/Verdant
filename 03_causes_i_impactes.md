@@ -10,25 +10,25 @@ Aquest problema és important perquè els boscos són essencials per mantenir l�
 
 La tala excessiva pot perjudicar el medi ambient i afectar la qualitat de vida de les persones.
 
-## 3. Causes (les arrels)
+## 3. Causas (las raíces)
 
-| Causa | Tipus | Explicació |
+| Causa | Tipo | Explicación |
 |---|---|---|
-| Tala excessiva d'arbres per obtenir fusta | Directa | La tala excessiva redueix la superfície forestal i degrada els boscos, perquè s'extreuen arbres a un ritme superior al de la seva regeneració. |
-| Gestió forestal inadequada | Directa | La gestio inadequada afavoreix la sobreexplotació dels recursos forestals. |
-| Demanda elevada de paper, mobles i productes de fusta | Indirecta | Augmenta la necessitat d'obtenir recursos forestals. |
-| Consum excessiu, malbaratament de paper i altres productes forestals | Indirecta | Genera una demanda innecessària de matèries primeres que es podria evitar. |
-| Manca de conscienciació sobre la importància dels boscos | Indirecta | Dificulta l'adopció d'hàbits de consum responsables i de pràctiques més sostenibles. |
+| Tala excesiva de árboles para obtener madera y otras materias primas | Directa | Reduce la superficie forestal y degrada los bosques, porque se extraen árboles a un ritmo superior al de su regeneración. |
+| Gestión forestal inadecuada o insuficiente | Directa | La falta de planificación y de control favorece la sobreexplotación de los recursos forestales. |
+| Demanda elevada de papel, muebles y productos de madera | Indirecta | Aumenta la necesidad de obtener recursos forestales y refuerza la presión sobre los bosques. |
+| Consumo excesivo y desperdicio de papel y otros productos forestales | Indirecta | Genera una demanda innecesaria de materias primas que se podría evitar. |
+| Falta de concienciación sobre la importancia de los bosques | Indirecta | Dificulta la adopción de hábitos de consumo responsables y de prácticas más sostenibles. |
 
-## 4. Conseqüències (les branques)
+## 4. Consecuencias (las ramas)
 
-| Conseqüència | Tipus d'impacte | Efecte |
+| Consecuencia | Tipo de impacto | Efecto |
 |---|---|---|
-| Destrucció d'hàbitats i pèrdua de biodiversitat | Ambiental directe | Les espècies perden els espais on viuen i s'alimenten, i algunes poden quedar en perill d'extinció. |
-| Erosió i degradació del sòl | Ambiental directe | Sense arbres, el sòl queda exposat a la pluja i al vent, i pot perdre fertilitat. |
-| Augment del CO₂ atmosfèric i contribució al canvi climàtic | Ambiental indirecte | La pèrdua de massa forestal redueix la capacitat d'absorbir CO₂ i pot alliberar el carboni emmagatzemat. |
-| Pèrdua de recursos naturals i afectació de les comunitats que depenen dels boscos | Social indirecte | Els recursos disponibles es redueixen i es perjudiquen les activitats i els modes de vida tradicionals. |
-| Pèrdues econòmiques en activitats forestals i turístiques | Econòmic indirecte | La degradació dels boscos perjudica les activitats que depenen de la seva conservació a llarg termini. |
+| Destrucción de hábitats y pérdida de biodiversidad | Ambiental directo | Las especies pierden los espacios donde viven y se alimentan, y algunas pueden quedar en peligro de extinción. |
+| Erosión y degradación del suelo | Ambiental directo | Sin árboles, el suelo queda expuesto a la lluvia y al viento, y puede perder fertilidad. |
+| Aumento del CO₂ atmosférico y contribución al cambio climático | Ambiental indirecto | La pérdida de masa forestal reduce la capacidad de absorber CO₂ y puede liberar el carbono almacenado. |
+| Pérdida de recursos naturales y afectación de las comunidades que dependen de los bosques | Social indirecto | Los recursos disponibles se reducen y se perjudican las actividades y los modos de vida tradicionales. |
+| Pérdidas económicas en actividades forestales y turísticas | Económico indirecto | La degradación de los bosques perjudica las actividades que dependen de su conservación a largo plazo. |
 ## Persones i sector afectats
 **Persones**
 **Població general**: ens veurem afectats per la degradació dels boscos, ja que són essencials per mantenir la qualitat de l'aire, regular el clima, protegir el sòl i conservar els recursos naturals. La seva destrucció empitjorara les condicions ambientals i la qualitat de vida.
