@@ -1,7 +1,7 @@
 ## Miembros y tareas
 - Carolina Montalvo: Probelma central (el tronco) Arbol de problemas
-- Ghania Qadir: 
-- Adam Ali Shah:
+- Ghania Qadir: Causas y Consecuencias
+- Adam Ali Shah: Personas y sectores afectados Y Medidas iniciales
 
 ## Problema central: el tronco
 
