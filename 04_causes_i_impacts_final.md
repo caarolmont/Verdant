@@ -59,4 +59,35 @@ Son líneas de actuación que se deben explorar, no acciones diseñadas.
 3. **Mejora de la información y el control**: aumentar la supervisión de la gestión forestal para detectar posibles casos de tala excesiva para fines exentos al permitido y conocer mejor el estado de los bosques y del arbolado urbano. Para ello, se pueden aprovechar herramientas tecnológicas y plataformas digitales, como los datos abiertos de los ayuntamientos, el CREAF o Global Forest Watch, que permiten consultar información sobre la situación de las zonas forestales y facilitar su protección.
 4. **Protección y reforestación**: impulsar la conservación de los árboles existentes y recuperar aquellas zonas forestales que hayan sufrido daños por la tala o la degradación ambiental. También es importante proteger el arbolado urbano, plantar nuevas especies adecuadas a cada entorno e incorporar la conservación de los árboles en la planificación de obras y proyectos urbanísticos. Así se puede favorecer la recuperación de los ecosistemas y proteger la biodiversidad (ODS 15, meta 15.2).
 ## Árbol de problemas 
+
+## 🍃 Efectos (Consecuencias)
+*   **Ambientales**
+    *   Destrucción de hábitats y pérdida de biodiversidad
+    *   Erosión y degradación del suelo
+    *   Aumento del CO₂ y cambio climático
+    *   Aumento de la contaminación
+ 
+*   **Sociales y salud**
+    *   Pérdida de recursos naturales para comunidades
+    *   Problemas de salud por contaminación
+    *   Pérdida de espacios naturales importantes
+
+ *   **Económicas**
+    *   Pérdidas económicas en actividades forestales y turísticas
+
+## 🎯 Problema Central
+> **Tala insostenible de árboles y consumo excesivo de productos forestales**.
+> Degradación de los bosques y la pérdida de la biodiversidad
+
+## 🪵 Causas (Orígenes)
+*   **Directas**
+    *   Tala excesiva de árboles para obtener madera y materias primas. 
+    *   Gestión forestal inadecuada o insuficiente.
+    *   Construcción y urbanización en montañas y espacios naturales protegidos.
+*   **Indirectas**
+    *  Demanda elevada de papel, muebles y productos de madera.
+    *  Consumo excesivo y desperdicio de productos forestales.
+    *  Falta de concienciación ambiental.
+    *  Falta de regulación del consumo y comercio.
+
 <img width="899" height="668" alt="{D3A7CDBC-FF67-4AA4-86EA-6D0BBB0C7CED}" src="https://github.com/user-attachments/assets/bddf43c8-1796-4894-92ea-30dd74e4a361" />
