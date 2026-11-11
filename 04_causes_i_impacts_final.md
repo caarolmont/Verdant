@@ -91,4 +91,5 @@ Son líneas de actuación que se deben explorar, no acciones diseñadas.
     *  Falta de concienciación ambiental.
     *  Falta de regulación del consumo y comercio.
 
-<img width="899" height="668" alt="{D3A7CDBC-FF67-4AA4-86EA-6D0BBB0C7CED}" src="https://github.com/user-attachments/assets/bddf43c8-1796-4894-92ea-30dd74e4a361" />
+<img width="1024" height="768" alt="Gráfico Esquema de Proyecto Moderno Colorido" src="https://github.com/user-attachments/assets/38573ad1-749d-40f8-9202-416cc2821ea5" />
+
