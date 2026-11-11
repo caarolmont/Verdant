@@ -72,8 +72,9 @@ Son líneas de actuación que se deben explorar, no acciones diseñadas.
     *   Problemas de salud por contaminación
     *   Pérdida de espacios naturales importantes
 
- *   **Económicas**
+*   **Económicas**
     *   Pérdidas económicas en actividades forestales y turísticas
+
 
 ## 🎯 Problema Central
 > **Tala insostenible de árboles y consumo excesivo de productos forestales**.
