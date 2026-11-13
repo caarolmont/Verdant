@@ -11,9 +11,24 @@
 
 
 
+## Part 1. Grups d'interès i classificació
 
+Los grupos de interés (stakeholders) son las personas, organizaciones y colectivos que sufren el problema, contribuyen a él o pueden influir en la solución. Para nuestro reto (*reducir la tala insostenible de árboles y fomentar el uso responsable de los recursos forestales en el entorno cercano*) hemos identificado 9 grupos.
 
+La clasificación se ha hecho tomando como organización al equipo Verdant, que desarrolla el proyecto dentro del Institut Provençana.
 
+| Nº | Grup d'interès | Inter / Extern | Motivo de la clasificación |
+|---|---|---|---|
+| 1 | Equipo Verdant (Carolina Montalvo, Ghania Qadir y Adam Ali Shah) | Intern | Desarrolla el proyecto. |
+| 2 | Institut Provençana (profesorado y alumnado) | Intern | Es la organización en la que se desarrolla y evalúa el proyecto. |
+| 3 | Ciudadanía y consumidores de Barcelona | Extern | No forma parte del proyecto, pero consume productos forestales y puede ser sensibilizada. |
+| 4 | Administraciones Publicas  | Extern | Gestiona el arbolado urbano y puede aportar datos y autorizar actuaciones. |
+| 6 | Propietarios forestales y sector maderero | Extern | Realiza la tala y la explotación de los recursos forestales. |
+| 7 | Industria del papel y del mueble, y comercio | Extern | Genera demanda de madera y papel y se ve afectada por su escasez. |
+| 8 | Comunidades rurales | Extern | Dependen del bosque y sufren directamente su degradación. |
+| 9 | Entidades ambientales y de investigación (CREAF, ONG, Global Forest Watch) | Extern | Aportan datos, asesoramiento y sensibilización. |
+
+**Resumen:** 2 grupos internos y 7 externos.
 
 
 
