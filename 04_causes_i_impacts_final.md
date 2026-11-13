@@ -90,6 +90,6 @@ La tala excesiva puede perjudicar el medio ambiente y afectar a la calidad de vi
     *  Falta de concienciación ambiental.
     *  Falta de regulación del consumo y comercio.
 
-<img width="1024" height="768" alt="Gráfico Esquema de Proyecto Moderno Colorido (1)" src="https://github.com/user-attachments/assets/81ceb3c3-30b0-41d5-b7a4-87373c30923c" />
+<img width="1024" height="768" alt="Gráfico Esquema de Proyecto Moderno Colorido" src="https://github.com/user-attachments/assets/759ee1d4-f9f2-45f0-9664-428505506702" />
 
 
