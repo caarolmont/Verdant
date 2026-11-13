@@ -1,4 +1,10 @@
-# Miembros
+# Miembros y tareas
+# Definicion i classificacion de los grupos de interes
+# Tabla de analisis de los grupos de interes
+# Mapa de influencia i afectacion
+# Selección i justificación de los res grupos mas relevantes
+# Propuesta de dos alianzas
+# Fuentes de información consultadas
 
 
 
@@ -26,13 +32,6 @@ climatització adequades.
 |---|---|---|---|
 | Alumnat | Directe | Alt | Baix |
 | Professorat | Directe | Alt | Mitjà |
-| Personal de neteja i manteniment | Directe | Alt | Baix |
-| Alumnat amb problemes de salut (asma, cardiopaties, etc.) | Directe | Alt | Molt baix |
-| Famílies | Indirecte | Mitjà | Mitjà |
-| Equip directiu | Influent | Mitjà | Alt |
-| Departament d'Educació | Influent | Baix | Alt |
-| Ajuntament (propietat o manteniment de l'edifici) | Influent | Baix | Alt |
-| Empreses de climatització i eficiència energètica | Indirecte | Baix | Mitjà |
 
 ## Perfil: Alumnat
 
