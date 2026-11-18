@@ -43,6 +43,10 @@ La clasificación se ha hecho tomando como organización al equipo Verdant, que 
 | Comunidades rurales que viven del bosque | Extern | Pierden recursos y espacios naturales. | Protección de su entorno y ser escuchadas. | Alt | Baixa | Aportar conocimiento local del bosque. |
 | Entidades ambientales y de investigación (CREAF, ONG, Global Forest Watch) | Extern | Estudian y denuncian el problema. | Datos, difusión y colaboración. | Mitjà | Mitjana | Aportar datos y sensibilizar. |
 
+## Parte 3. Mapa de gupos de interes
+
+
+
 # Mapatge de stakeholders — Calor a les aules
 
 ## Problema detectat
