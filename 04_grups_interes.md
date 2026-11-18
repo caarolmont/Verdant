@@ -44,7 +44,7 @@ La clasificación se ha hecho tomando como organización al equipo Verdant, que 
 | Entidades ambientales y de investigación (CREAF, ONG, Global Forest Watch) | Extern | Estudian y denuncian el problema. | Datos, difusión y colaboración. | Mitjà | Mitjana | Aportar datos y sensibilizar. |
 
 ## Parte 3. Mapa de gupos de interes
-
+<img width="899" height="668" alt="Mapa de Grupos de Interés" src="https://github.com/user-attachments/assets/bddf43c8-1796-4894-92ea-30dd74e4a361">
 
 
 # Mapatge de stakeholders — Calor a les aules
